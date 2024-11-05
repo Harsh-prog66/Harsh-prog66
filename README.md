@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/harsh-singh-029a02329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HARSH SINGH" height="30" width="40" /></a>
 <a href="https://instagram.com/harsh924singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh924singh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/harshss609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HARSH SINGH" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/harshss609@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshss609@gmail.com" height="30" width="40" /></a>
+<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="HARSH SINGH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
